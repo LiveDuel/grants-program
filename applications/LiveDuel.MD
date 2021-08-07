@@ -45,24 +45,24 @@ Help us locate your project in the Blockchain landscape and what problems it tri
 Team 👥
 Team members
 
-    Name of team leader
-    Names of team members
+    Will Martin
+    David Garrido
 
 Contact
 
-    Contact Name: Full name of the contact person in your team
-    Contact Email: Contact email (e.g. john@duo.com)
-    Website:
+    Will Martin
+    will@liveduel.com
+    LiveDuel.com
 
 Legal Structure
 
-    Registered Address: Address of your registered legal entity, if available. Please keep it in a single line. (e.g. High Street 1, London LK1 234, UK)
-    Registered Legal Entity: Name of your registered legal entity, if available. (e.g. Duo Ltd.)
+    16 St Patricks Hill, Cork, Ireland
+    LiveDuel Ltd
 
 Team's Location
 
-    Place of Operations: Place of Operations of team member 1
-    Place of Operations: Place of Operations of team member 2
+    Cork, Ireland
+    London, England
 
 Team's experience
 
@@ -71,18 +71,15 @@ Please describe the team's relevant experience. If your project involves develop
 Please list the name of the project and legal entity here.
 Team Code Repos
 
-    https://github.com/<your_organisation>
-    https://github.com/<your_organisation>/<project_1>
-    https://github.com/<your_organisation>/<project_2>
-
+    https://github.com/LiveDuel
+    
 Please also provide the GitHub accounts of all team members. If they contain no activity, references to projects hosted elsewhere or live are also fine.
 
-    https://github.com/<team_member_1>
-    https://github.com/<team_member_2>
+    https://github.com/willpmartin
 
 Team LinkedIn Profiles (if available)
 
-    https://www.linkedin.com/<person_1>
+    https://www.linkedin.com/in/willpmartin/
     https://www.linkedin.com/<person_2>
 
 Development Status 📖
