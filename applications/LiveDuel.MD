@@ -4,9 +4,9 @@ Bepro Network Grant Proposal
 
     See the Grants Program Process on how to submit a proposal.
 
-    Project Name: Name of your project (e.g. DuoSwap Module)
-    Team Name: Legal name of your team (e.g. Duo)
-    Payment Address: BEPRO or USDC payment address. We don't accept payments for the program in other currencies at this stage. If this is an Ethereum address, please specify BEPRO or USDC. (e.g. 0x8920... (DAI))
+    Project Name: :LiveDuel 
+    Team Name: LiveDuel Ltd
+    Payment Address: TBD - BEPRO or USDC payment address. We don't accept payments for the program in other currencies at this stage. If this is an Ethereum address, please specify BEPRO or USDC. (e.g. 0x8920... (DAI))
 
     ⚠️ The combination of your GitHub account submitting the application and the payment address above will be your unique identifier during the program. Please keep them safe.
 
@@ -14,10 +14,25 @@ Overview
 
 Please provide the following:
 
-    If the name of your project is not descriptive, a tag line (one sentence summary).
-    A brief description of your project.
-    An indication of how your project relates to / integrates into Bepro Network / Bepro-js
-    An indication of why your team is interested in creating this project.
+    LiveDuel is an interactive media and gaming company targetting the sports and esports industry.
+    
+    Fan engagement has moved almost entirely digital, which opens up huge opportunities for innovative solutions. 
+    
+    LiveDuel is building next generation fan engagement through interactive steaming where users play an active part in the live action. 
+    
+    Live action is what sports and esports is all about, as passionate sports fans we know that there is a better way for fans to be a part of the action. 
+    
+    Whether that is through active participation in live quizzes, fantasy and prediction games or through live on demand features like stats and chat. 
+    
+    The future of sports is live, the future is LiveDuel 
+    
+    Choose to Win! 
+    
+    Bepro-js offers a wide range of innovative solutions that we are excited to integrate. From gaming, prediction markets and NFT's.
+
+    We see a future where all of these exist in one ecosystem powered by LiveDuel. 
+    
+    We are passionate sports fans and understand what fans want and need to feel closer to the action from around the world. We want to build a fan centric product that delivers great     value to the fans as well as teams, leagues and sponsors. 
 
 Project Details
 
@@ -30,6 +45,10 @@ We expect the teams to already have a solid idea about your project's expected f
     PoC/MVP or other relevant prior work or research on the topic
     What your project is not or will not provide or implement
         This is a place for you to manage expectations and to clarify any limitations that might not be obvious
+        
+    LiveDuel will build a series of interactive components that form part of the web application using React. This will allow us to reuse these components in a way that will allow them     to be used in others settings. For instance we strongly believe in live streaming, so these componets can be used in interactive overlays that can run on top of streams to engage       users in a meaningful way. 
+    
+    Our MVP will be a prediciton market for sports and esports games and competitions. 
 
 Ecosystem Fit
 
@@ -41,6 +60,20 @@ Help us locate your project in the Blockchain landscape and what problems it tri
     Are there any other projects similar to yours in the BEPRO Network ecosystem?
         If so, how is your project different?
         If not, are there similar projects in related ecosystems?
+        
+    LiveDuel's target sports fans, clubs and leagues. 
+    
+    LiveDuel will offer next generation fan engagement tools to sports teams and leagues looking to the blockchain as part of their digital transformation. 
+    
+    Our audience is sports fans but we will look to rights holders in the form of clubs and leagues who have problems that they are looking to solve via digital means. 
+    
+    Our target customer needs to engage fans in a more meaningful way via digital channels in order to own the fan relationship in the digital world. With sports being more global than     its ever been, our customers need tools to help them reach and engage their fans in a meaningful way. 
+    
+    Our project is unique in many ways but it has a number of similarities to PolkaMarkets, Real Fevr etc.
+    
+    LiveDuel is differnt from the above mentioned companies as we take a different approach to our distribution and monetization strategy. While we have elements of a prediciton market     and NFT's our implementation will be quite different. 
+    
+    
 
 Team 👥
 Team members
@@ -66,9 +99,11 @@ Team's Location
 
 Team's experience
 
-Please describe the team's relevant experience. If your project involves development work, we would appreciate it if you singled out a few interesting projects or contributions made by team members in the past. For research-related grants, references to past publications and projects in a related domain are helpful.
+Will Martin has a background in Economics & Computer Science as well as a Masters in Entrepreneurship and Management. He worked for a New York based prop trading company where he day traded stocks and commodoties and help build AI to exectute winning strategies. While in college he sports traded and practised sports arbitrage which helped him understand the sports trading market which heavily influenced the concept for LiveDuel. For the last 10 years he has worked in startups and worked on Beats by Dre as a junior product manager. He curates the Sports Tech newsletter for Techstars.
 
-Please list the name of the project and legal entity here.
+David is a sports broadcaster with Sky Sports. He has vast knowledge and experience traditional live broadcasting as well as digital streaming. 
+
+LiveDuel Ltd. 
 Team Code Repos
 
     https://github.com/LiveDuel
@@ -80,7 +115,7 @@ Please also provide the GitHub accounts of all team members. If they contain no 
 Team LinkedIn Profiles (if available)
 
     https://www.linkedin.com/in/willpmartin/
-    https://www.linkedin.com/<person_2>
+    https://www.linkedin.com/in/davidgarrido1980/
 
 Development Status 📖
 
